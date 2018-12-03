@@ -40,3 +40,16 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## Making effective plots
+
+```yaml
+type: VideoExercise
+key: ed0cd19379
+xp: 50
+```
+
+`@projector_key`
+60f032bcdc11ed6578dc45bf2e29bb5c
