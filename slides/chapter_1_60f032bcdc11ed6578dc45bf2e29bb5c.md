@@ -30,15 +30,15 @@ key: "e4b6f32653"
 ```
 
 `@part1`
-You will learn how to create meaningful, easy to read and well-formatted graphs for use in statistical reporting. Specifically:
+You will learn how to create meaningful, easy to read and well-formatted graphs for use in statistical reporting. Specifically:{{1}}
 
-- Labels {{1}}
+- Labels {{2}}
 
-- Ticks {{2}}
+- Ticks {{3}}
 
-- Titles {{3}}
+- Titles {{4}}
 
-- Visual style {{4}}
+- Visual style {{5}}
 
 
 `@script`
