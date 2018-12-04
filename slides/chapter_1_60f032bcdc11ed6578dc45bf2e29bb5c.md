@@ -11,6 +11,7 @@ key: "2ace50a7ae"
 ```
 
 `@lower_third`
+
 name: Name Surname
 title: Instructor
 
@@ -42,7 +43,7 @@ You will learn how to create meaningful, easy to read and well-formatted graphs 
 
 
 `@script`
-This video provides guidelines on how to create meaningful, easy to read and well-formatted graphs for use in statistical reporting. It contains hints and tips on presentation. Specifically, you will learn how to include additional objects and characteristics such as Labels, Ticks, graph sizes, and visual style required to create effective plots.
+This video provides guidelines on how to create meaningful, easy to read and well-formatted graphs for use in statistical reporting. It contains hints and tips on presentation. Specifically, you will learn how to include additional objects and characteristics such as Labels, Ticks, Titles, and visual style required to create effective plots.
 
 
 ---
