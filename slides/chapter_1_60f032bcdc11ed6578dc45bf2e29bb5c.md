@@ -134,7 +134,7 @@ plt.show()
 `@script`
 The first thing you always need to do is include labels for both the x-axis (horizontal) and y-axis (vertical). Labels should be brief and explain exactly what each aspect of the graph is showing. Let’s do this by adding the xlabel() and ylabel() functions. As inputs, we pass strings that should be placed alongside the axes. Make sure to call these functions before calling the show() function, otherwise labels will not be displayed. If we run the script again, this time the axes are annotated.
 
-Now, let's verify if the labels of the x-axis make sense, and the answer is no because they are not descriptive names.
+However, let's verify if the labels of the x-axis make sense, and the answer is no because they are not descriptive names.
 
 
 ---
