@@ -12,7 +12,7 @@ key: "2ace50a7ae"
 
 `@lower_third`
 
-name: Name Surname
+name: Andres Guijarro
 title: Instructor
 
 
@@ -31,15 +31,17 @@ key: "e4b6f32653"
 ```
 
 `@part1`
-You will learn how to create meaningful, easy to read and well-formatted graphs for use in statistical reporting. Specifically:{{1}}
+You will learn how to create meaningful, easy to read and well-formatted graphs for use in statistical reporting.{{1}} 
 
-- Labels {{2}}
+Specifically:{{2}}
 
-- Ticks {{3}}
+- Labels {{3}}
 
-- Titles {{4}}
+- Ticks {{4}}
 
-- Visual style {{5}}
+- Titles {{5}}
+
+- Visual style {{6}}
 
 
 `@script`
@@ -84,7 +86,7 @@ plt.show()
 
 
 `@script`
-Let’s start with the code in this script to build a simple bar chart. It’s similar to the bar plot we have created in the previous lessons.
+Let’s start with the code in this script to build a simple bar plot. It’s similar to the bar plot we have created in the previous lessons.
 
 If you run this script, we get a pretty nice plot with no meaning at all. So that, there are many things that need to be improved.
 
