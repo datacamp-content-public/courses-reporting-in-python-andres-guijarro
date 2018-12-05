@@ -182,7 +182,7 @@ plt.show()
 
 
 `@script`
-To customize the labels, we will use ticks. Ticks are small marks on both axes of a figure. Matplotlib's default tick locators and formatters are designed to be sufficient in many common situations but are in no way optimal for every plot.  For our example, we will use xticks() function. The first input is an ordered list of numbers, and the second input is a list with the display names of the ticks. Both lists must have the same size. If we run this version of the script, the x-labels will change and make sense.
+To customize the labels, we will use ticks. Ticks are small marks on both axes of a figure. Matplotlib's default tick locators and formatters are designed to be sufficient in many common situations but are in no way optimal for every plot.  For our example, we will use xticks() function. The first input is an ordered list of numbers, and the second input is a list with the display names of the ticks. Both lists must have the same size. If we run this version of the script, the x-labels will change and make sense now.
 
 
 ---
