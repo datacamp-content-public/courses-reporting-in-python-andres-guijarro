@@ -86,7 +86,7 @@ plt.show()
 
 
 `@script`
-Let’s start with the code in this script to build a simple bar plot. It’s similar to the bar plot we have created in the previous lessons.
+Let’s start with the code to build a simple bar plot. It’s similar to the bar plot we have created in the previous lessons.
 
 If you run this script, we get a pretty nice plot with no meaning at all. So that, there are many things that need to be improved.
 
