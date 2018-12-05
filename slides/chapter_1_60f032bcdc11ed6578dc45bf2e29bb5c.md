@@ -115,20 +115,20 @@ plt.bar(y_pos, performance,
 align='center', alpha=0.5, 
 color = ['#E13F29','#D69A80',
 '#D63B59','#AE5552','#CB5C3B'])
-```{{1}}
+```{{2}}
 ```python
 # Label both axis
 plt.xlabel('Programming language')
 plt.ylabel('Usage')
-```{{2}}
+```{{3}}
 ```python
 # Display plot
 plt.show()
-```{{1}}
+```{{2}}
 
 
 `@part2`
-![](https://assets.datacamp.com/production/repositories/4187/datasets/8eb2df1b059d55ff2ab65ba7260c2c543146bbff/screencast2.png){{3}}
+![](https://assets.datacamp.com/production/repositories/4187/datasets/8eb2df1b059d55ff2ab65ba7260c2c543146bbff/screencast2.png){{4}}
 
 
 `@script`
